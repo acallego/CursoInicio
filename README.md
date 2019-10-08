@@ -6,3 +6,5 @@ Editado por primera vez.
 Editado por segunda vez.
 <br />
 Editado en local y en remoto: error a la vista.
+<br />
+Editado primeramente en la rama feature_x
