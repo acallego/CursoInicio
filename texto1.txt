@@ -1,1 +1,2 @@
 Contenido del texto 1
+probando cuál es el editor por defecto
